@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import * as THREE from "three";
 import { OrbitControls } from 'jsm/controls/OrbitControls.js';
 
@@ -118,5 +118,4 @@ function animate(){
 renderer.render(scene, camera);
 console.log(animate);
 }
->>>>>>> 45a6b15a2307fa6516f6bcabc4da7b3522b44ab3
 animate();
